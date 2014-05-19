@@ -32,5 +32,5 @@
 	<icon src="res/icons/ios/icon-40.png" gap:platform="ios" width="40" height="40" />
 	<icon src="res/icons/ios/icon-40-2x.png" gap:platform="ios" width="80" height="80" />
     
-    <access origin="http://3dprintingphilippines.com" subdomains="true" />
+    <access origin="*" subdomains="true" />
 </widget>
