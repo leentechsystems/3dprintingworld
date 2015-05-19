@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.printsworldwide3d" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.printsworldwide3d" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>3D Prints Worldwide</name>
     <description>
         3D Printing is a video portal that will keep you up-to-date in the 3d printing world. Videos are posted and categorized based on their applications. This portal also has featured videos and latest blogs, news and articles, all related to 3D printing. It also has directory listings for existing 3D Printing Companies. Visitors can sign-up for free and can enjoy privileges such as creating and managing playlists, managing likes and videos, and many more. Members can also upload avatar and update their profile anytime.
